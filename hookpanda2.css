@@ -1,0 +1,52 @@
+
+.main-image{
+height: 350px;
+}
+.email{
+margin-bottom: 50px;
+}
+.password{
+margin-bottom: 50px;
+}
+.repeat-password{
+margin-bottom: 16px;
+}
+.login-username{
+margin-top: 5px;
+
+}
+.login-password{
+margin-top: 30px;
+}
+.login-button{
+margin-top: 30px;
+border-color: red;
+}
+.already-account{
+margin-bottom: 50px;
+}
+.hookpanda-logo{
+height: 100px;
+margin-top: 15px;
+margin-bottom: 0;
+}
+.login-button-image{
+height: 50px;
+background-color: green;
+}
+
+
+.register-button-image{
+height: 50px;
+background-color: gray;
+}
+.register-button-image:hover,
+.login-button-image:hover{
+	background-color: white;
+	cursor: pointer;
+}
+.register-button-image:active,
+.login-button-image:active{
+	background-color: black;
+	
+}
